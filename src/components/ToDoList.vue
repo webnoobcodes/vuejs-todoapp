@@ -137,7 +137,7 @@ import { setTimeout } from 'timers';
 
 <style lang="scss" scoped>
   .container {
-    padding: 50px 10px 10px;
+    padding: 10px;
     width: calc(100% - 20px);
     min-height: calc(100% - 20px);
 
